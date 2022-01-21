@@ -4,6 +4,9 @@ VSC code to extract data from Richpanel to Stitch and csv file
 **A Singer tap for extracting data from a Richpanel account**
 
 ## To a csv file
+
+Following this tutorial:  https://blog.panoply.io/etl-with-singer-a-tutorial
+
 ### 1. Create a virtual enviroment, access it and install the needed packages
 `› cd richpanel-tap`
 
