@@ -64,9 +64,9 @@ Now you can run the tap using the following command which will print the output 
 
 ### 7. Set up the stitch target
 
-`python3 -m venv stitch_target`
+`python3 -m venv stitch-target`
 
-`source stitch_target/bin/activate`
+`source stitch-target/bin/activate`
 
 `pip install target-stitch`
 
