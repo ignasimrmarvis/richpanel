@@ -99,7 +99,7 @@ Needs to be reviwed since there is this error: **zsh: no such file or directory:
 
 
 
-
+JOB TO RUN EVERY DAY
 
 `cp state-new.json state-previous.json`
 
