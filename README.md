@@ -98,3 +98,17 @@ Needs to be reviwed since there is this error: **zsh: no such file or directory:
 
 
 
+
+
+
+`cp state-new.json state-previous.json`
+
+`richpanel-tap -c sample_config.json --state state-previous.json | target-stitch --config stitch-config.json > state-new.json`
+
+
+
+
+
+
+
+
