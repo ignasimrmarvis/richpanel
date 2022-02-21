@@ -28,7 +28,7 @@ Run the following command in Visual Studio Code:
 
 `richpanel-tap -c sample_config.json --state state-previous.json | target-stitch --config stitch-config.json > state-new.json`
 
-_Please not that if you are not in the virtual enviroment you need to access it running the following commands: _
+_Please not that if you are not in the virtual enviroment you need to access it running the following commands:_
 
 `source ~/.virtualenvs/tap-richpanel/bin/activate`
 
