@@ -1,0 +1,7 @@
+{
+  "client_id" : 129510,
+  "token" : "c3f568ac9efec5eebbf013ab17948fdc0fde1295afa7c5d2e301c4c02c9b265",
+  "small_batch_url": "https://api.eu-central-1.stitchdata.com",
+  "big_batch_url": "https://api.eu-central-1.stitchdata.com",
+  "batch_size_preferences": {}
+}
