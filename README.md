@@ -8,12 +8,12 @@
 4.1. Ignasi's laptop --> Run the following command in visual code studio: 
 `richpanel-tap -c sample_config.json --state state-previous.json | target-stitch --config stitch-config.json > state-new.json`
 4.2 Anyone else laptop --> Run the following commands one by one: 
-`cd richpanel-tap
-python3 -m venv ~/.virtualenvs/tap-richpanel
-source ~/.virtualenvs/tap-richpanel/bin/activate
-pip install -e .
-pip install target-stitch
-richpanel-tap -c sample_config.json --state state-previous.json | target-stitch --config stitch-config.json > state-new.json`
+`cd richpanel-tap`
+`python3 -m venv ~/.virtualenvs/tap-richpanel`
+`source ~/.virtualenvs/tap-richpanel/bin/activate`
+`pip install -e .`
+`pip install target-stitch`
+`richpanel-tap -c sample_config.json --state state-previous.json | target-stitch --config stitch-config.json > state-new.json`
 
 
 
